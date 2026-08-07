@@ -12,6 +12,15 @@ Automação inteligente para análise de currículo utilizando IA, Make, Google 
 - **Slack** — Canal utilizado para receber as notificações com os resultados da análise.
 - **JSON** — Estrutura utilizada para tratamento e organização dos dados entre as etapas da automação.
 
+- automation
+artificial-intelligence
+make
+openai
+google-workspace
+google-sheets
+slack
+recruitment
+
 ## 📸 Demonstração do projeto
 
 ### Fluxo da automação no Make
