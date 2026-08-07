@@ -12,14 +12,15 @@ Automação inteligente para análise de currículo utilizando IA, Make, Google 
 - **Slack** — Canal utilizado para receber as notificações com os resultados da análise.
 - **JSON** — Estrutura utilizada para tratamento e organização dos dados entre as etapas da automação.
 
-- automation
-artificial-intelligence
-make
-openai
-google-workspace
-google-sheets
-slack
-recruitment
+## 📂 Estrutura do projeto
+
+- `README.md` — Documentação do projeto
+- `01-fluxo-automacao-make.png` — Fluxo da automação no Make
+- `02-formulario-candidato.png` — Formulário utilizado para coleta dos dados
+- `02-formulario-candidato1.png` — Resultado recebido no Google Sheets
+- `03-google-sheets-candidato.png` — Planilha utilizada no projeto
+- `04-curriculo-candidato-teste.png` — Currículo utilizado no teste
+- `05-analise-openai.png` — Resultado da análise realizada pela IA
 
 ## 📸 Demonstração do projeto
 
