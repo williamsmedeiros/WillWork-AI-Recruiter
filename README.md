@@ -6,7 +6,7 @@ Automação inteligente para análise de currículo utilizando IA, Make, Google 
 
 ### Fluxo da automação no Make
 
-![Fluxo Make]()
+![Fluxo Make](01-fluxo-automacao-make.png)
 
 ### Formulário de candidatura
 
