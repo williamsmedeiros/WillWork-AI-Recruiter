@@ -5,12 +5,12 @@ Automação inteligente para análise de currículo utilizando IA, Make, Google 
 ## 🛠️ Tecnologias utilizadas
 
 - **Make** — Plataforma de automação responsável pelo fluxo do processo.
-- **OpenAI** — Utilizada para análise inteligente dos currículos e geração de informações sobre os candidatos.
-- **Google Forms** — Formulário utilizado para coleta das informações dos candidatos.
-- **Google Sheets** — Banco de dados inicial para armazenamento das respostas recebidas.
-- **Google Drive** — Armazenamento dos arquivos de currículo enviados.
-- **Slack** — Canal utilizado para receber as notificações com os resultados da análise.
-- **JSON** — Estrutura utilizada para tratamento e organização dos dados entre as etapas da automação.
+- **OpenAI** — Utilizada para análise inteligente dos currículos.
+- **Google Forms** — Coleta das informações dos candidatos.
+- **Google Sheets** — Armazenamento dos dados.
+- **Google Drive** — Armazenamento dos currículos.
+- **Slack** — Notificação dos resultados.
+- **JSON** — Estruturação dos dados.
 
 ## 📂 Estrutura do projeto
 
